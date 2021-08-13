@@ -5,14 +5,14 @@
 2. Clonar o repositório no endereço https://github.com/ortegavan/senai-encontro-remoto.git;
 
 3. Criar uma branch com os nomes abaixo:
-Van: editar
-Arê: salvar
-Dani: imprimir
+- Van: editar
+- Arê: salvar
+- Dani: imprimir
 
 4. Editar, cada uma na sua branch, o arquivo funcionalidades.txt e incluir o texto abaixo:
-Van: Editar (e)
-Arê: Salvar (s)
-Dani: Imprimir (i)
+- Van: Editar (e)
+- Arê: Salvar (s)
+- Dani: Imprimir (i)
 
 5. Subir o arquivo para o repositório no GitHub;
 
