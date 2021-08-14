@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 salvar
+=======
+Editar (e)
+>>>>>>> origin/editar
