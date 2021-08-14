@@ -16,4 +16,6 @@
 
 5. Subir o arquivo para o repositório no GitHub;
 
-6. Van faz merge das 3 branches na main.
+6. Van faz merge das 3 branches na main (tela foi compartilhada no Discord e todas ajudaram/participaram deste processo).
+
+A estratégia de branching utilizada foi por feature, onde em cada branch foi desenvolvida uma funcionalidade e depois todas as funcionalidades foram para o trunk (main).
