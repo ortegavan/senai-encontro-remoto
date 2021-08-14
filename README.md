@@ -9,10 +9,10 @@
 - Arê: salvar
 - Dani: imprimir
 
-4. Editar, cada uma na sua branch, o arquivo funcionalidades.txt e incluir o texto abaixo:
-- Van: Editar (e)
-- Arê: Salvar (s)
-- Dani: Imprimir (i)
+4. Editar, cada uma na sua branch, o arquivo **funcionalidades.txt** e incluir o texto abaixo:
+- Van: editar
+- Arê: salvar
+- Dani: imprimir
 
 5. Subir o arquivo para o repositório no GitHub;
 
