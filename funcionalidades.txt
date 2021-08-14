@@ -1,3 +1,2 @@
 salvar
-Editar (e)
-Imprimir (i)
+editar
