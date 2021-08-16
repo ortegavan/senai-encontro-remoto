@@ -18,4 +18,6 @@
 
 6. Van faz merge das 3 branches na main (tela foi compartilhada no Discord e todas ajudaram/participaram deste processo).
 
-A estratégia de branching utilizada foi por feature, onde em cada branch foi desenvolvida uma funcionalidade e depois todas as funcionalidades foram para o trunk (main).
+A estratégia de branching utilizada foi por feature, onde em cada branch foi desenvolvida uma funcionalidade e depois todas as funcionalidades foram para o trunk (main), conforme imagem abaixo.
+
+![branching strategy](https://zepel.io/blog/content/images/2020/05/Feature-Branch-git-workflow-4.png)
