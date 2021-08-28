@@ -6,12 +6,11 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/ortegavan/senai-versoes-colaboracoes/commits/main/README.md">
-        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ortegavan/senai-versoes-colaboracoes?style=flat-square">
+    <a href="https://github.com/ortegavan/senai-encontro-remoto/commits/">
+        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ortegavan/senai-encontro-remoto?style=flat-square">
     </a>    
 </p>
 ### Roteiro da atividade
-
 
 1. Dani e Arê precisam ir no e-mail aceitar o convite para modificar o repositório;
 
